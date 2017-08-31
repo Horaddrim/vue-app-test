@@ -27,7 +27,7 @@ export default {
 </script>
 
 <style>
-body{
+body {
   background-color:#000
 }
 
@@ -58,5 +58,6 @@ body{
 
 .links {
   padding-top: 15px;
+  align-self: auto;
 }
 </style>
