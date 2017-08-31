@@ -9,6 +9,7 @@
         Back-end Developer in Brazil :D
       </h2>
       <div class="links">
+        <a href="https://medium.com/@IFranca" target="_blank" class="button--green">Medium</a>
         <a href="https://github.com/Horaddrim" target="_blank" class="button--grey">GitHub</a>
       </div>
     </div>
@@ -26,6 +27,10 @@ export default {
 </script>
 
 <style>
+body{
+  background-color:#000
+}
+
 .container {
   min-height: 100vh;
   display: flex;
@@ -39,7 +44,7 @@ export default {
   display: block;
   font-weight: 300;
   font-size: 100px;
-  color: #35495e;
+  color: #526488;
   letter-spacing: 1px;
 }
 
