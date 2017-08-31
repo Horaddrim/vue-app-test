@@ -1,6 +1,6 @@
 # vue-app-test
 
-> Nuxt.js project
+> Visit https://ifranca.netlify.com/ to see the production build :D 
 
 ## Build Setup
 
