@@ -1,5 +1,5 @@
 <template>
-  <div class="VueToNuxtLogo">
+  <div class="promo-logo">
     <div class="Triangle Triangle--one"></div>
     <div class="Triangle Triangle--one"></div>
     <div class="Triangle Triangle--three"></div>
@@ -8,7 +8,7 @@
 </template>
 
 <style>
-.VueToNuxtLogo {
+.promo-logo {
   display: inline-block;
   animation: turn 5s linear forwards 3s;
   transform: rotateX(180deg);
